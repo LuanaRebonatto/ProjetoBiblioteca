@@ -850,11 +850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Área de Trabalho\\Atividade 1\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\luana\\OneDrive\\Área de Trabalho\\Atividade 1\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\luana\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luana\\OneDrive\\Área de Trabalho\\Atividade 1\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\luana\\OneDrive\\Área de Trabalho\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config"
